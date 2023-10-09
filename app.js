@@ -1,5 +1,5 @@
 let listaNumerosGerados = [];
-let numeroMax = 100;
+let numeroMax = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 0;
 
@@ -62,7 +62,7 @@ function reiniciarJogo() {
     limparCampoDigitado();
     tentativas = 0;
     exibirTextoNaTela("h1", "Jogo do número secreto");
-    exibirTextoNaTela("p", "Escolha um número entre 1 e 100");
+    exibirTextoNaTela("p", "Escolha um número entre 1 e 50");
     document.getElementById("botaoChute").removeAttribute("disabled");
     document.getElementById("reiniciar").setAttribute("disabled", true);
 }
