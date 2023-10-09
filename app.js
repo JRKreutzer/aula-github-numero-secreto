@@ -1,12 +1,7 @@
 let listaNumerosGerados = [];
-let numeroMax = 10;
+let numeroMax = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 0;
-// let titulo = document.querySelector("h1");
-// titulo.innerHTML = "Jogo do número secreto";
-
-// let paragrafo = document.querySelector("p");
-// paragrafo.innerHTML = "Escolha um número entre 1 e 10";
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
@@ -67,7 +62,7 @@ function reiniciarJogo() {
     limparCampoDigitado();
     tentativas = 0;
     exibirTextoNaTela("h1", "Jogo do número secreto");
-    exibirTextoNaTela("p", "Escolha um número entre 1 e 10");
+    exibirTextoNaTela("p", "Escolha um número entre 1 e 100");
     document.getElementById("botaoChute").removeAttribute("disabled");
     document.getElementById("reiniciar").setAttribute("disabled", true);
 }
