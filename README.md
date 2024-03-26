@@ -1,6 +1,6 @@
 # Git e GitHub
 
-Atividade realizada durante o curso da Alura de Lógica de programação, com foco em Git e Github, em particular compartilhando e colaborando em projetos
+Atividade realizada durante o curso da Alura de lógica de programação, com foco em Git e Github, em particular compartilhando e colaborando em projetos
 
 ## 🔨 Aprendizado adquirido ao longo do curso do projeto
 
