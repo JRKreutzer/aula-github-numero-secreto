@@ -1,11 +1,19 @@
-<h1>Jogo do número secreto</h1>
+# Git e GitHub
 
-<h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+Atividade realizada durante o curso da Alura de Lógica de programação, com foco em Git e Github, em particular compartilhando e colaborando em projetos
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## 🔨 Aprendizado adquirido ao longo do curso do projeto
+
+- Criar seu portfólio de projetos no GitHub
+- Aprender a compartilhar o código de seus projetos no GitHub
+- Entender como colaborar em projetos
+- Fazer o versionamento de um projeto de software utilizando o Git
+- Lidar com conflitos em códigos utilizando o Git
+- Analisar e modifique o histórico de commits de um repositório Git
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- `JavScript` - Linguagem de programação principal
+- `Git` - Sistema de controle de versão amplamente utilizado
+- `Github` - Plataforma de hospedagem de repositórios Git e colaboração de desenvolvimento de software
+
